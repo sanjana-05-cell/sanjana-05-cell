@@ -2,7 +2,7 @@
 <h1 align="center">Sanjana N here!!</h1>
 
 <p align="center">
-  <em>Aspiring ECE Student passionate about Web Development, IoT & Embedded Systems 🌐⚡</em>
+  <em>Electronics and Communication Engineering student passionate about Web Development IoT and Embedded systems with hands on experience in building innovative projects and solving real world problems🌐⚡</em>
 </p>
 
 <p align="center">

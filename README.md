@@ -36,7 +36,10 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-FF6F00?style=for-the-badge&logo=arm&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-0288D1?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge&logo=thealgorithms&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ---
 
 ## 🛠️ Tools

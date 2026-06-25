@@ -54,6 +54,7 @@
 ## 🎈 Stacks
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjana-05-cell&layout=compact&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=sanjana-05-cell&theme=radical)
 
 ---
 
